@@ -8,13 +8,15 @@ are assigned from the top down.
 Glossary
 ----
 
-Role: 
+**Role:** A set of accountablities that the role-player is responsbible for.
 
-Circle: 
+**Circle:** When a role's accountabilities become bigger than one person, a sub-circle is formed. A circle
+contains multiple roles.
 
-Tension: 
+**Tension:** Dissonance created by a gap between current reality and a desired reality.
 
-Rep Link: 
+**Rep Link:** A circle's representive to their parent circle. The sense their circle's tension, and ensure
+these tensions are processed.
 
 Lead Link: 
 
