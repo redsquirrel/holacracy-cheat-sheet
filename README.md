@@ -15,14 +15,15 @@ contains multiple roles.
 
 **Tension:** Dissonance created by a gap between current reality and a desired reality.
 
-**Rep Link:** A circle's representive to their parent circle. The sense their circle's tension, and ensure
+**Rep Link:** A circle's representive to their parent circle. They sense their circle's tensions, and ensure
 these tensions are processed.
 
-Lead Link: 
+**Lead Link:** The link between a circle and its sub-circle. Has sole power to assign people to roles in the sub-circle.
 
-Secretary: 
+**Secretary:** Interprets the [Holocracy constitution](http://holacracy.org/constitution) and her/his circle's governance
+in order to produce good outcomes from holacratic meetings.
 
-Facilitator: 
+**Facilitator:** Ensures that tactical and governance meetings are run according to the holacratic process.
 
 Tactical process
 ----
